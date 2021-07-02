@@ -3,7 +3,7 @@
 
 - 💻 I’ve been working on **Autoglass** as a IT intern 
 
-- 👨‍💻 All of my projects are available at **[here](https://github.com/ingridigavem?tab=repositories)**
+- 👨‍💻 All of my projects **[HERE](https://github.com/ingridigavem?tab=repositories)**
 
 - 📫 REACH ME **[HERE](mailto:ingridigavem@gmail.com)**
 
