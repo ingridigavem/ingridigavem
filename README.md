@@ -1,13 +1,11 @@
 <h1 align="center">Hey guys 👋, I'm Ingridi</h1>
 <h3 align="center">A apprentice developer</h3>
 
-- 💻 I’m currently working on **Autoglass** 
-
-- 📚 I’m currently learning **Javascript, Node.js, C#, .NET, HTML and CSS**
+- 💻 I’ve been working on **Autoglass as a IT intern ** 
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/ingridigavem)**
 
-- 📫 How to reach me **[here](mailto:ingridigavem@gmail.com)**
+- 📫 REACH ME **[HERE](mailto:ingridigavem@gmail.com)**
 
 - ⚡ Fun fact **Music fan**, **Marvel fan**, **Puzzle fan**, **etc** 🤣😂
 
@@ -17,7 +15,7 @@
 </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">📚 Languages / Tools / My Skills / Learning:</h2>
 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </p>
 
