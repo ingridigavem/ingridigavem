@@ -1,7 +1,7 @@
 <h1 align="center">Hey guys 👋, I'm Ingridi</h1>
 <h3 align="center">A apprentice developer</h3>
 
-- 💻 I’ve been working on **Autoglass as a IT intern ** 
+- 💻 I’ve been working on **Autoglass** as a IT intern 
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/ingridigavem)**
 
