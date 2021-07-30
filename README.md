@@ -1,6 +1,8 @@
 <h1 align="center">Hey guys 👋, I'm Ingridi</h1>
 <h3 align="center">A apprentice developer</h3>
 
+
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="150" />
 - 💻 I’ve been working on **Autoglass** as a IT intern 
 
 - 👨‍💻 All of my projects **[HERE](https://github.com/ingridigavem?tab=repositories)**
@@ -8,6 +10,7 @@
 - 📫 REACH ME **[HERE](mailto:ingridigavem@gmail.com)**
 
 - ⚡ Fun fact **Music fan**, **Marvel fan**, **Puzzle fan**, **etc** 🤣😂
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
