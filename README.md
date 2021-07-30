@@ -3,6 +3,7 @@
 
 
 <img align="right" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
+
 - 💻 I’ve been working on **Autoglass** as a IT intern 
 
 - 👨‍💻 All of my projects **[HERE](https://github.com/ingridigavem?tab=repositories)**
