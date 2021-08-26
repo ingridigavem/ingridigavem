@@ -68,4 +68,7 @@
 <h3 align="left">Statistics:</h3>
 <p align="left">
   
-  ![Ingridi's github stats](https://github-readme-stats.vercel.app/api?username=ingridigavem&show_icons=true&theme=tokyonight&count_private=true&line_height=33) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridigavem&show_icons=true&theme=tokyonight&count_private=true)
+<div>
+  <img height="285" src="https://github-readme-stats.vercel.app/api?username=ingridigavem&show_icons=true&theme=tokyonight&count_private=true&line_height=33"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridigavem&show_icons=true&theme=tokyonight&count_private=true"/>
+</div>
