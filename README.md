@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
 
-- 💻 I’ve been working on **Autoglass** as a IT intern 
+- 💻 I’ve been working on Autoglass as a **Software Developer** 
 
 - 👨‍💻 All of my projects **[HERE](https://github.com/ingridigavem?tab=repositories)**
 
@@ -46,9 +46,18 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   </a> 
+<!--Angular-->
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+  </a>
+<!--Typescript-->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+     <img alt="MySQL" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=#4479A1"/>
+     
+  </a>
 <!--mysql-->
   <a href="https://www.mysql.com/" target="_blank">
-     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=#4479A1"/>
+     <img alt="Typescript" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=#3178C6"/>
   </a>
 <!--MongoDB-->
   <a href="https://docs.mongodb.com/" target="_blank">
