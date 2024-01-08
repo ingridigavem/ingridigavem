@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
 
-- 💻 I’ve been working on STONE | LINX as a **Software Developer** 
+- 💻 I’ve been working on AVANADE as a **Software Developer** 
 
 - 👨‍💻 All of my projects **[HERE](https://github.com/ingridigavem?tab=repositories)**
 
