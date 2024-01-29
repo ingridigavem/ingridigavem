@@ -1,10 +1,9 @@
 <h1 align="center">Hey guys 👋, I'm Ingridi</h1>
-<h3 align="center">A apprentice developer</h3>
 
 
 <img align="right" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
 
-- 💻 I’ve been working on AVANADE as a **Software Developer** 
+- 💻 I’ve been working on AVANADE as a **Software Engineer** 
 
 - 👨‍💻 All of my projects **[HERE](https://github.com/ingridigavem?tab=repositories)**
 
@@ -19,20 +18,12 @@
 </a>
 </p>
 
-<h2 align="center">📚 Languages / Tools / My Skills / Learning:</h2>
+<h2 align="center">📚 Languages / Tools / My Skills </h2>
 
 <p align="center"> 
-<!--Javscript-->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  </a>
 <!--CSharp-->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
      <img alt="CSharp" src="https://img.shields.io/badge/CSharp-20232A?style=for-the-badge&logo=csharp&logoColor=512BD4"/>   
-  </a>
-<!--NodeJS-->
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-      <img alt="NODEJS" src="https://img.shields.io/badge/NODE.JS-20232A?style=for-the-badge&logo=Node.js&logoColor=339933"/>
   </a>
 <!--.NET-->
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank">
@@ -50,14 +41,26 @@
   <a href="https://angular.io/" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031"/>
   </a>
+    <!--Javscript-->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+  </a>
+<!--NPM-->
+  <a href="https://www.npmjs.com/" target="_blank">
+      <img alt="NPM" src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+  </a>
 <!--Typescript-->
   <a href="https://www.typescriptlang.org/" target="_blank">
-     <img alt="MySQL" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=#4479A1"/>
+     <img alt="typescript" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=3178C6"/>
      
   </a>
-<!--mysql-->
-  <a href="https://www.mysql.com/" target="_blank">
-     <img alt="Typescript" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=#3178C6"/>
+<!--sqlserver-->
+  <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank">
+     <img alt="sqlserver" src="https://img.shields.io/badge/sqlserver-20232A?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)"/>
+  </a>
+  <!--Docker-->
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   </a>
 <!--MongoDB-->
   <a href="https://docs.mongodb.com/" target="_blank">
@@ -71,7 +74,6 @@
   <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams">
     <img src="https://img.shields.io/badge/Kanban-20232A?style=for-the-badge&logo=pinboard&logoColor=DD0000"/>
   </a>
-
 </p>
 
 <h3 align="left">Statistics:</h3>
