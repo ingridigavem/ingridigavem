@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="200" height="150" />
 
-- 💻 I’ve been working on AVANADE as a **Software Engineer** 
+- 💻 I’ve been working on GFT Technologies as a **Software Engineer** 
 
 - 👨‍💻 All of my projects **[HERE](https://github.com/ingridigavem?tab=repositories)**
 
